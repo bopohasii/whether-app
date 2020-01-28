@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.content {
+    flex-grow: 1;
+}
+
+.content-inside {
+    padding: 8px 16px;
+}
+
+.footer {
+
+}
